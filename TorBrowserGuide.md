@@ -7,7 +7,7 @@
     - Running the installation script or program.
     - Verifying the integrity of the downloaded files (optional).
 ### 3.	Configuring Tor for Darknet Access
-Introduction to accessing the Darknet.
+    - Introduction to accessing the Darknet.
     - Obtaining Bridge Address and Fingerprint:
     - Explanation of bridges and their role in bypassing censorship.
     - Instructions on how to obtain bridge address and fingerprint:
