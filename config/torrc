@@ -1,0 +1,16 @@
+# This is the torrc file that will be written by the setup_config.py script.
+# It contains configuration options for the Tor service.
+# The options written here will be overwritten by the script when it runs.
+
+# SOCKS proxy configuration
+SOCKSPort 9050
+SOCKSPolicy accept 127.0.0.1
+SOCKSPolicy accept ::1
+
+# Enable directory authorities for bootstrap
+UseBridges 1
+Bridge obfs4 138.68.255.37:56789 A5C0D4C1B2E3F4G5H6I7J8K9L0M1N2O3P
+
+# Hidden service configuration
+HiddenServiceDir /path/to/hidden_service/
+HiddenServicePort 80 127.0.0.1:8080
