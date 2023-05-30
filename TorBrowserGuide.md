@@ -268,9 +268,9 @@ Remember, your online security and privacy are influenced by various factors bey
 
 # 6. Additional Resources
 For further information and assistance, refer to the following resources:
-    - **The official Tor Project website:** https://www.torproject.org
-    - **Tor documentation and user guides:** https://www.torproject.org/docs/
-    - **Tor community and support forums:** https://tor.stackexchange.com/
+- **The official Tor Project website:** https://www.torproject.org  
+- **Tor documentation and user guides:** https://www.torproject.org/docs/  
+- **Tor community and support forums:** https://tor.stackexchange.com/  
 
 By adopting responsible practices and staying informed, you can make the most of your Tor Browser experience while protecting your privacy and security.
 
