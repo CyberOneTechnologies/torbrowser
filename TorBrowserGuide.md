@@ -72,11 +72,14 @@ Now, let's dive in and begin your journey into the realm of secure and private b
 To use the Tor Browser in conjunction with the "Darknet Tor Install" program developed by CyberOne Technologies, follow the installation steps outlined below:
 
 ## System Requirements and Supported Platforms
+
 The "Darknet Tor Install" program is designed to run on Kali Linux or Ubuntu (Debian systems). Ensure that your system meets the following requirements:
-    - **Operating System:** Kali Linux or Ubuntu (Debian-based systems).
-    - **Storage:** Ensure you have sufficient free disk space to download and install the Tor Browser program.
-    - **Memory:** It is recommended to have at least 2GB of RAM for optimal performance.
-    - **Internet Connection:** A stable internet connection is necessary to download the Tor Browser program and its associated files.
+
+- **Operating System:** Kali Linux or Ubuntu (Debian-based systems).
+- **Storage:** Ensure you have sufficient free disk space to download and install the Tor Browser program.
+- **Memory:** It is recommended to have at least 2GB of RAM for optimal performance.
+- **Internet Connection:** A stable internet connection is necessary to download the Tor Browser program and its associated files.
+
 
 ## Downloading and Installing the Tor Browser with "Darknet Tor Install"
 To install the Tor Browser using the "Darknet Tor Install" program, follow these steps:
@@ -86,12 +89,12 @@ To install the Tor Browser using the "Darknet Tor Install" program, follow these
 git clone https://github.com/CyberOneTechnologies/torbrowser.git 
 ```
 
-3.	Change to the torbrowser directory:
+3.	Change to the `torbrowser` directory:
 ```
 cd torbrowser 
 ```
 
-4.	Run the installation script install_tor.py:
+4.	Run the installation script `install_tor.py`:
 ```
 python3 scripts/install_tor.py 
 ```
@@ -100,15 +103,14 @@ This script will automatically download and install the Tor Browser on your syst
 
 5.	Follow the on-screen prompts and provide any necessary information when prompted.
 
-6.	Once the installation is complete, you can launch the Tor Browser by navigating to the Tor Browser installation directory and running the start-tor-browser script:
+6.	Once the installation is complete, you can launch the Tor Browser by navigating to the Tor Browser installation directory and running the `start-tor-browser` script:
 ```
 cd tor-browser_en-US # Replace "en-US" with the appropriate language code if needed ./start-tor-browser 
 ```
 
 **Sample Output:**
 ```
-
-Darknet Tor Install 
+**Darknet Tor Install**
 **[INFO]** Starting Tor Browser installation...
 
 **[INFO]** Downloading Tor Browser Bundle...
@@ -150,8 +152,7 @@ Once you have the bridge address and fingerprint, you can configure Tor for Dark
 cd torbrowser
 ```
 
-3.	Run the configuration script setup_config.py:
-
+3.	Run the configuration script `setup_config.py`:
 ```
 python3 scripts/setup_config.py
 ```
