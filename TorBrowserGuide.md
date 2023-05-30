@@ -105,7 +105,7 @@ This script will automatically download and install the Tor Browser on your syst
 cd tor-browser_en-US # Replace "en-US" with the appropriate language code if needed ./start-tor-browser 
 ```
 
-Sample Output:
+**Sample Output:**
 ```
 
 Darknet Tor Install 
