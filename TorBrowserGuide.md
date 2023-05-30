@@ -109,26 +109,25 @@ cd tor-browser_en-US # Replace "en-US" with the appropriate language code if nee
 ```
 
 **Sample Output:**
-```
-**Darknet Tor Install**
-**[INFO]** Starting Tor Browser installation...
+`**Darknet Tor Install**`
+`**[INFO]** Starting Tor Browser installation...`
 
-**[INFO]** Downloading Tor Browser Bundle...
+`**[INFO]** Downloading Tor Browser Bundle...`
 
-**[INFO]** Tor Browser Bundle downloaded successfully. 
+`**[INFO]** Tor Browser Bundle downloaded successfully.`
 
-**[INFO]** Extracting Tor Browser Bundle... 
+`**[INFO]** Extracting Tor Browser Bundle...`
 
-**[INFO]** Tor Browser Bundle extracted successfully.
+`**[INFO]** Tor Browser Bundle extracted successfully.`
 
-**[INFO]** Setting up Tor Browser configuration...
+`**[INFO]** Setting up Tor Browser configuration...`
 
-**[INFO]** Tor Browser configuration completed.
+`**[INFO]** Tor Browser configuration completed.`
 
-**[SUCCESS]** Tor Browser installation completed successfully! 
+`**[SUCCESS]** Tor Browser installation completed successfully!`
 
-**[INFO]** You can now launch the Tor Browser by running the start-tor-browser script. 
-```
+`**[INFO]** You can now launch the Tor Browser by running the start-tor-browser script.`
+
 
 **Congratulations!** You have successfully installed the Tor Browser using the `Darknet Tor Install` program. You can now launch the Tor Browser and proceed with the configuration steps provided in the next section.
 
